@@ -1,0 +1,54 @@
+This file describes how to prepare your data for the HMSC-course in Helsinki on November 2-6 2020.
+
+Given that we have a large number of participants, we highly encourage you to send your data to us beforehand.
+This allows us to ensure that your data are in a shape that is ready for HMSC-analyses, including our plan of
+fitting a pilot HMSC-model to your data already before the course. Note that this is not done for the purpose
+of addressing your actual research questions (which we don't know), just to ensure that your data are technically
+ready to go. We will of course treat your data fully confidentially and not share it outside those course instructors who
+will take part in setting up the pilot model. For more information on this, see the end of the README.txt.
+
+There is no deadline for sending the data, but the earlier you send it, the more sure it is that
+we will have time to set up the pilot model for it. We will work with the data in the order of their arrival.
+We will automatize the processing of a large number of datasets as much as possible, so
+it is important that you follow these instructions as completely as possible. In particular, your data needs
+to be in a specific format, and it needs to pass some consistency checks before we start working with it!
+
+Send the datafiles by email (as attachments) to hmsc-course@helsinki.fi
+with email subject data_surname_firstname, e.g. data_ovaskainen_otso
+Send all the data in one email.
+
+If you have questions before sending the data, please email your question to
+hmsc-course@helsinki.fi with email subject question_surname_firstname,
+e.g. question_ovaskainen_otso 
+
+If your name has non-standard characters or the names have several parts, please simplify it
+ so that surname_firstname has no non-standard characters and there is only one surname and 
+one firstname (we will create for you a folder named surname_firstname).
+
+We encourage you to send the full dataset, as that will enable the fastest transition from
+pilot analyses to actual analyses. If the data are big, we will
+extract a randomly selected subset to avoid computational problems when fitting the model.
+However, if you wish, you can send also just a subset of the data.
+
+The files that you need to prepare are:
+
+SXY.csv (mandatory)
+README.text (mandatory)
+S1_read_data.R (mandatory)
+TP.csv (optional)
+P.tre (optional)
+
+For the format and contents of these files, see the examples provided,
+in particular the R-script S1_read_data.R . You will need to modify this file
+so that it reads in your own data and makes some basic consistency checks.
+The example files correspond to the bird example that is given in
+Chapter 11 of the book Ovaskainen and Abrego 2020.
+
+We expect that most datasets are possible to convert to this format.
+If your data cannot be converted to this format, please email 
+hmsc-course@helsinki.fi with email subject question_surname_firstname
+and explain the issue.
+
+Some examples that will require other kinds of formatting include:
+-spatial random effects where the relevant distance is not euclidian.
+-cases where a phylogenetic tree or taxonomy table is not available but a phylogenetic correlation matrix is available.
