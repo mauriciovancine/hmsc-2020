@@ -22,69 +22,69 @@ Site: https://www.helsinki.fi/en/researchgroups/statistical-ecology/software/pas
 
 - **Lecture 1.** Welcome & introduction to the course
 
-  Slides: [HMSC course: Lecture 1 - Welcome and Introduction](https://www.helsinki.fi/sites/default/files/atoms/files/lecture_1_-_welcome_introduction.pdf)
+  [Slides](https://www.helsinki.fi/sites/default/files/atoms/files/lecture_1_-_welcome_introduction.pdf)
 
-  Video: [HMSC course: Lecture 1 - Welcome and Introduction](https://youtu.be/4QKQLI5A-lU)
+  [Video](https://youtu.be/4QKQLI5A-lU)
 
 - **Lecture 2.** Introduction to community ecology (theory, data and methods): how does HMSC relate to ecological theory? 
 
-  Slides: [HMSC course: Lecture 2 - Community ecology & HMSC](https://www.helsinki.fi/sites/default/files/atoms/files/lecture_2_-_community_ecology_and_hmsc.pdf)
+  [Slides](https://www.helsinki.fi/sites/default/files/atoms/files/lecture_2_-_community_ecology_and_hmsc.pdf)
 
-  Video: [HMSC course: Lecture 2 - Community ecology & HMSC](https://youtu.be/24zTioRdJtw)
+  [Video](https://youtu.be/24zTioRdJtw)
 
 - **Lecture 3.** Overview of the structure of HMSC
 
-  Slides: [HMSC course: Lecture 3 - Overview of the structure of HMSC](https://www.helsinki.fi/sites/default/files/atoms/files/lecture_3_-_overview_of_the_structure_of_hmsc.pdf)
+  [Slides](https://www.helsinki.fi/sites/default/files/atoms/files/lecture_3_-_overview_of_the_structure_of_hmsc.pdf)
 
-  Video: [HMSC course: Lecture 3 - Overview of the structure of HMSC](https://youtu.be/mLr0nFe28sI)
+  [Video](https://youtu.be/mLr0nFe28sI)
 
 - **Lecture 4.** HMSC in practice: the syntax and typical workflow of the R-package Hmsc
 
-  Slides: [HMSC course: Lecture 4 - HMSC in practice](https://www.helsinki.fi/sites/default/files/atoms/files/lecture_4_-_hmsc_in_practice.pdf)
+  [Slides](https://www.helsinki.fi/sites/default/files/atoms/files/lecture_4_-_hmsc_in_practice.pdf)
 
-  Video: [HMSC course: Lecture 4 - HMSC in practice](https://youtu.be/X6U3FMKjfdw)
+  [Video](https://youtu.be/X6U3FMKjfdw)
 
-**Terça-feira 03 de Novembro: 6am-12am**
+### **Terça-feira 03 de Novembro: 6am-12am**
 
 - **Lecture 5.** Building HMSC step by step: single-species modelling
 
-  Slides: [HMSC course: Lecture 5 - Single species modelling](https://www.helsinki.fi/sites/default/files/atoms/files/lecture_5_-_single-species_modelling.pdf)
+  [Slides](https://www.helsinki.fi/sites/default/files/atoms/files/lecture_5_-_single-species_modelling.pdf)
 
-  Video: [HMSC course: Lecture 5 - Single species modelling](https://youtu.be/W8VY5B_ZNIQ)
+  [Video](https://youtu.be/W8VY5B_ZNIQ)
 
 - **R-demonstration 1.** Linear model with HMSC
 
-  Script 01: [R script for Lecture 5 example Linear model](https://www.helsinki.fi/sites/default/files/atoms/files/1a_linear_model.zip)
+  [Script 01](https://www.helsinki.fi/sites/default/files/atoms/files/1a_linear_model.zip)
 
-  Script 02: [R script for Lecture 5 example Corvus monedula](https://www.helsinki.fi/sites/default/files/atoms/files/1b_corvus_monedula.zip)
+  [Script 02](https://www.helsinki.fi/sites/default/files/atoms/files/1b_corvus_monedula.zip)
 
-  Video: [R-demonstration 1](https://youtu.be/K2OJqnlc73c)
+  [Video](https://youtu.be/K2OJqnlc73c)
 
 - **Lecture 6.** Building HMSC step by step: variation in species niches
 
-  Slides: [HMSC course: Lecture 6 - Variation in species' niches](https://www.helsinki.fi/sites/default/files/atoms/files/lecture_6_-_variation_in_species_niches.pdf)
+  [Slides](https://www.helsinki.fi/sites/default/files/atoms/files/lecture_6_-_variation_in_species_niches.pdf)
 
-  Video: [HMSC course: Lecture 6 - Variation in species' niches](https://youtu.be/-eUMvymTJbo)
+  [Video 1](https://youtu.be/-eUMvymTJbo)
+  
+  [Video 2](https://youtu.be/4M_Zrz0FUzU)
 
 - **R-demonstration 2.** Plant case study. *skipped*
 
-  [![](http://img.youtube.com/vi/4M_Zrz0FUzU/0.jpg)](https://youtu.be/4M_Zrz0FUzU)
-
-**Quarta-feira 04 de Novembro: 6am-12am (+1pm-3pm)**
+### **Quarta-feira 04 de Novembro: 6am-12am (+1pm-3pm)**
 
 - **R-demonstration 3.** Bird case study. *skipped*
 
 - **R-demonstration 4.** Selected case studies from the data provided by the participants
 
-  Script 04: [R scripts for fitting your own data](https://www.helsinki.fi/sites/default/files/atoms/files/hmsc_scripts.zip)
+  [Script 04](https://www.helsinki.fi/sites/default/files/atoms/files/hmsc_scripts.zip)
 
-  Video: [![](http://img.youtube.com/vi/slP4BCbiriA/0.jpg)](https://youtu.be/slP4BCbiriA)
+  [Video](https://youtu.be/slP4BCbiriA)
 
 - **Break-out groups 1 – Europe (10am-12am)** Possibility to discuss with teachers in small groups in any topics of your  interest. In particular, demonstrations of what was done/can be done  with your own data, especially for those who submitted pilot data
 
 - **Break-out groups 1 – America (1pm-3pm)**
 
-**Quinta-feira 05 de Novembro: 6am-12am (+3am-5am and 1pm-3pm)**
+### **Quinta-feira 05 de Novembro: 6am-12am (+3am-5am and 1pm-3pm)**
 
 - **Break-out groups 1 – Australasia (3am-5am)**
 
@@ -106,30 +106,30 @@ Site: https://www.helsinki.fi/en/researchgroups/statistical-ecology/software/pas
 
 - **Break-out groups 2 – America (1pm-3pm)**
 
-**Sexta-feira 06 de Novembro: 6am-12am (+3am-5am)**
+### **Sexta-feira 06 de Novembro: 6am-12am (+3am-5am)**
 
 - **Lecture 7.** Building HMSC step by step: biotic interactions
 
-  Slides: [HMSC course: Lecture 7 - Biotic interactions](https://www.helsinki.fi/sites/default/files/atoms/files/lecture_7_-_biotic_interactions.pdf)
+  [Slides](https://www.helsinki.fi/sites/default/files/atoms/files/lecture_7_-_biotic_interactions.pdf)
 
-  Video: [HMSC course: Lecture 7 - Biotic interactions](https://youtu.be/_hvdjpdNQYo)
+  [Video](https://youtu.be/_hvdjpdNQYo)
 
 - **Break-out groups 2 – Australasia (3am-5am)**
 
 - **Lecture 10.** Types of data that can be  incorporated to Hmsc and types of questions that can be addressed by  Hmsc: what can be done beyond the examples we considered?
 
-  Slides: [HMSC course: Lecture 10 - Model selection](https://www.helsinki.fi/sites/default/files/atoms/files/lecture_10_-_model_selection.pdf)
+  [Slides](https://www.helsinki.fi/sites/default/files/atoms/files/lecture_10_-_model_selection.pdf)
 
-  Video: [HMSC course: Lecture 10 - Model selection](https://youtu.be/obtR90Y57lg)
+  [Video](https://youtu.be/obtR90Y57lg)
 
 - ***Lecture 11.*** Types of data that can be incorporated into Hmsc and types of questions that can be addressed by Hmsc
 
-  Video: [Types of data that can be incorporated into Hmsc and types of questions that can be addressed by Hmsc](https://youtu.be/b1zmLDudKJU)
+  [Video](https://youtu.be/b1zmLDudKJU)
 
 - **General discussion.** Based e.g. on questions that came up in break-out groups that could not be addressed there
 
-  Video: [General discussion](https://youtu.be/t2QfIZVXYl0)
+  [Video](https://youtu.be/t2QfIZVXYl0)
 
 - **Lecture 12.** Closing words
 
-  Video: [Closing words](https://youtu.be/Ev4xIyTJPTw)
+  [Video](https://youtu.be/Ev4xIyTJPTw)
