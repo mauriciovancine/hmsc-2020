@@ -12,7 +12,7 @@
 
 **Tempo do curso**: como gerenciamos a participação global? Temos 123 registros da Europa+África, 77 da América e 39 da Australásia. Todos os horários neste documento são GMT+0. O curso básico será executado todos os dias das 9h às 15h, com uma hora alocada para intervalos, ou seja, 5 horas de ensino ativo para cada um dos cinco dias. Todas as palestras e demonstrações de computador serão gravadas, para que aqueles para quem esses tempos são difíceis possam assistir as versões gravadas. Os grupos de descanso também serão organizados à noite (GMT das 16h às 18h; deve ser conveniente para a América) e de manhã (GMT das 6h às 8h; deve ser conveniente para a Australásia). Todo o evento acontecerá no zoom. As perguntas na sessão plenária devem ser feitas principalmente por chat.
 
-Site: https://www.helsinki.fi/en/researchgroups/statistical-ecology/hmsc
+Site: https://www.helsinki.fi/en/researchgroups/statistical-ecology/software/past-hmsc-workshops
 
 ---
 
