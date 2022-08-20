@@ -84,10 +84,6 @@ Site: https://www.helsinki.fi/en/researchgroups/statistical-ecology/software/pas
 
   [Video](https://youtu.be/slP4BCbiriA)
 
-- **Break-out groups 1 – Europe (10am-12am)** Possibility to discuss with teachers in small groups in any topics of your  interest. In particular, demonstrations of what was done/can be done  with your own data, especially for those who submitted pilot data
-
-- **Break-out groups 1 – America (1pm-3pm)**
-
 ---
 
 ### **Quinta-feira 05 de Novembro: 6am-12am (+3am-5am and 1pm-3pm)**
@@ -96,7 +92,7 @@ Site: https://www.helsinki.fi/en/researchgroups/statistical-ecology/software/pas
 
 - **R-demonstration 5.** Selected case studies from the data provided by the participants.
 
- [Video](https://youtu.be/Q_m3q6Y2Jho)
+  [Video](https://youtu.be/Q_m3q6Y2Jho)
 
 - **Lecture 8.** How to describe the HMSC analyses in the “Material and Methods” section of your manuscript (based on R-demonstrations 5 and 6)
 
@@ -108,10 +104,6 @@ Site: https://www.helsinki.fi/en/researchgroups/statistical-ecology/software/pas
 
   [Video](https://youtu.be/nuv3UBzbOP4)
 
-- **Break-out groups 2 – Europe (10am-12am)** Possibility to discuss with teachers in smaller groups in any topics of your  interest. In particular, demonstrations of what was done/can be done  with your own data, especially for those who submitted pilot data
-
-- **Break-out groups 2 – America (1pm-3pm)**
-
 ---
 
 ### **Sexta-feira 06 de Novembro: 6am-12am (+3am-5am)**
@@ -121,8 +113,6 @@ Site: https://www.helsinki.fi/en/researchgroups/statistical-ecology/software/pas
   [Slides](https://www.helsinki.fi/sites/default/files/atoms/files/lecture_7_-_biotic_interactions.pdf)
 
   [Video](https://youtu.be/_hvdjpdNQYo)
-
-- **Break-out groups 2 – Australasia (3am-5am)**
 
 - **Lecture 10.** Types of data that can be  incorporated to Hmsc and types of questions that can be addressed by  Hmsc: what can be done beyond the examples we considered?
 
