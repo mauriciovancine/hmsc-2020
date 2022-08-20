@@ -18,7 +18,7 @@ Site: https://www.helsinki.fi/en/researchgroups/statistical-ecology/software/pas
 
 ## **Aulas**
 
-**Segunda-feira 02 de Novembro: 6am-12am**
+### **Segunda-feira 02 de Novembro: 6am-12am**
 
 - **Lecture 1.** Welcome & introduction to the course
 
