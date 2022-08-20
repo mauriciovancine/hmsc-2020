@@ -43,6 +43,8 @@ Site: https://www.helsinki.fi/en/researchgroups/statistical-ecology/software/pas
   [Slides](https://www.helsinki.fi/sites/default/files/atoms/files/lecture_4_-_hmsc_in_practice.pdf)
 
   [Video](https://youtu.be/X6U3FMKjfdw)
+  
+---
 
 ### **Terça-feira 03 de Novembro: 6am-12am**
 
@@ -70,6 +72,8 @@ Site: https://www.helsinki.fi/en/researchgroups/statistical-ecology/software/pas
 
 - **R-demonstration 2.** Plant case study. *skipped*
 
+---
+
 ### **Quarta-feira 04 de Novembro: 6am-12am (+1pm-3pm)**
 
 - **R-demonstration 3.** Bird case study. *skipped*
@@ -84,27 +88,31 @@ Site: https://www.helsinki.fi/en/researchgroups/statistical-ecology/software/pas
 
 - **Break-out groups 1 – America (1pm-3pm)**
 
+---
+
 ### **Quinta-feira 05 de Novembro: 6am-12am (+3am-5am and 1pm-3pm)**
 
 - **Break-out groups 1 – Australasia (3am-5am)**
 
 - **R-demonstration 5.** Selected case studies from the data provided by the participants.
 
-  Video: [![](http://img.youtube.com/vi/Q_m3q6Y2Jho/0.jpg)](https://youtu.be/Q_m3q6Y2Jho)
+ [Video](https://youtu.be/Q_m3q6Y2Jho)
 
 - **Lecture 8.** How to describe the HMSC analyses in the “Material and Methods” section of your manuscript (based on R-demonstrations 5 and 6)
 
-  Material: [Download the example Materials and Methods created during the course (Lectures 8 and 9)](https://www.helsinki.fi/sites/default/files/atoms/files/examples_of_methods_and_results_sections.zip)
+  [Material](https://www.helsinki.fi/sites/default/files/atoms/files/examples_of_methods_and_results_sections.zip)
 
-  Video: [![](http://img.youtube.com/vi/qPPDb6TMb48/0.jpg)](https://youtu.be/qPPDb6TMb48)
+  [Video](https://youtu.be/qPPDb6TMb48)
 
 - **Lecture 9.** How to describe the HMSC analyses in the “Results” section of your manuscript (based on R-demonstrations 5 and 6)
 
-  Video: [![](http://img.youtube.com/vi/nuv3UBzbOP4/0.jpg)](https://youtu.be/nuv3UBzbOP4)
+  [Video](https://youtu.be/nuv3UBzbOP4)
 
 - **Break-out groups 2 – Europe (10am-12am)** Possibility to discuss with teachers in smaller groups in any topics of your  interest. In particular, demonstrations of what was done/can be done  with your own data, especially for those who submitted pilot data
 
 - **Break-out groups 2 – America (1pm-3pm)**
+
+---
 
 ### **Sexta-feira 06 de Novembro: 6am-12am (+3am-5am)**
 
@@ -133,3 +141,9 @@ Site: https://www.helsinki.fi/en/researchgroups/statistical-ecology/software/pas
 - **Lecture 12.** Closing words
 
   [Video](https://youtu.be/Ev4xIyTJPTw)
+  
+  ---
+
+[HMSC 2022](https://github.com/mauriciovancine/hmsc-2022)
+
+---
